@@ -105,6 +105,7 @@ public class AnnotationUtils {
      * instance to operate.</p>
      */
     public AnnotationUtils() {
+        System.out.println("AnnotationUtils");
     }
 
     //-----------------------------------------------------------------------
